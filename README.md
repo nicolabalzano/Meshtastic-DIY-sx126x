@@ -10,7 +10,6 @@ Building your own node is a great way to learn about LoRa mesh networks and cust
 * **ESP32 Development Board** (e.g., ESP32 WROOM-32 DevKit V1)
 * **LoRa Module:** Ebyte E22-900M22S (or similar bare SPI SX1262/SX1261 module)
 * **LoRa Antenna:** 868MHz or 915MHz depending on your region (⚠️ **NEVER transmit without the antenna attached!**)
-* **Jumper Wires** and breadboard (or a custom PCB/perfboard)
 
 ### 🟢 Optional Components
 * **Power Supply:** 18650 Battery + 18650 Battery Shield (with built-in TP4056 charger and 3.3V/5V regulator)
