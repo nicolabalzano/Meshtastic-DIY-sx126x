@@ -32,7 +32,7 @@ The Ebyte E22 module requires specific pins to handle SPI communication, the TCX
 | 4 | MOSI | **GPIO 23** | SPI MOSI |
 | 5 | SCK | **GPIO 18** | SPI Clock |
 | 6 | NSS | **GPIO 5** | SPI Chip Select (CS) |
-| 7 | NRST | **GPIO 26** | Reset (*Changed from GPIO14 to prevent boot loops*) |
+| 7 | NRST | **GPIO 26** |  |
 | 8 | DIO1 | **GPIO 33** | IRQ pin |
 | 9 | BUSY | **GPIO 32** | Busy state indicator |
 | 10 | DIO2 | *Not Connected* | |
