@@ -4,16 +4,6 @@ This repository contains the custom firmware build and hardware guide for creati
 
 Building your own node is a great way to learn about LoRa mesh networks and customize your hardware exactly how you want it!
 
----
-
-## ✨ Features
-* Full compatibility with the Meshtastic mesh network.
-* Uses the high-performance SX1262 (or SX1261) LoRa chip via SPI.
-* Custom pinout designed to avoid ESP32 strapping pin conflicts (e.g., using GPIO 26 for Reset instead of GPIO 14).
-* Support for Bluetooth connection to the Meshtastic mobile app.
-
----
-
 ## 🛠️ Components List
 
 ### 🛑 Required Components
