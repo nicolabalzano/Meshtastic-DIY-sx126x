@@ -13,7 +13,6 @@ Building your own node is a great way to learn about LoRa mesh networks and cust
 
 ### 🟢 Optional Components
 * **Power Supply:** 18650 Battery + 18650 Battery Shield (with built-in TP4056 charger and 3.3V/5V regulator)
-* **User Button:** A tactile push button connected to `GPIO 0` to interact with the device screen.
 * **OLED Display:** 0.96" SSD1306 I2C OLED screen (SDA: 21, SCL: 22).
 
 ---
@@ -50,10 +49,6 @@ If you are adding a 0.96" I2C OLED display to see messages and node status witho
 | SCL | **GPIO 22** | I2C Clock |
 | SDA | **GPIO 21** | I2C Data |
 
-### 🔘 User Button (Optional)
-To navigate the screen pages, you can add a simple push button:
-* Connect one side of the button to **GPIO 0**.
-* Connect the other side to **GND**.
 
 ---
 
